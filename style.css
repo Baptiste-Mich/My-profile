@@ -1,0 +1,73 @@
+body {
+	background-color: rgb(230,230,230);
+	color: rgb(30,30,30);
+	font-family: Courrier;
+}
+
+h1 {
+	color: #B8860B;
+	font-family: Helvetica;
+}
+
+h2 {
+	color: #D2691E
+}
+
+body{
+	color : red;
+}
+
+div {
+	background: white;                         
+	padding: 30px;
+	margin: 50px;                             
+	border-radius: 4px;                        
+	box-shadow: 0 10px 30px rgba(0,0,0,.3);
+}
+
+#Baptiste {
+	border-radius: 50%
+}
+
+#Ligne {
+	border-radius: 50px;
+	text-align: justify;
+}
+
+#chihiro {
+	border-radius: 50px;
+	text-align: justify;
+
+}
+
+.text-justify {
+	text-align: justify;
+	text-align: center;
+}
+
+
+.btn-blue {
+	background-color: #6B72E1;
+	color: white;
+	padding: 15px 20px;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 18px;
+}
+
+.list-inline i {
+	font-size: 50px;
+	color: blue;
+}
+
+.list-inline i:hover {
+	Color: black;
+}
+
